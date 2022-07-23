@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reto</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="enter_complete_data">Complete todos los campos</string>
+</resources>
